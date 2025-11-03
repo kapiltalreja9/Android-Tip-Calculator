@@ -31,15 +31,7 @@ A user-friendly tip calculator application for Android devices that helps users 
 2.  **Run the app:** Click the "Run" button (the green triangle) in the toolbar or press `Shift` + `F10` (`Control` + `R` on Mac).
 
 ## Built With
-
-- [Kotlin](https://kotlinlang.org/) - Primary programming language
-- [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - For robust and maintainable architecture
-- [Material Design Components](https://material.io/develop/android) - For modern UI elements
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
+- Java
 
 ## Author
 
