@@ -1,6 +1,6 @@
 # Android Tip Calculator
 
-A modern and user-friendly tip calculator application for Android devices that helps users quickly calculate tips and split bills among multiple people.
+A user-friendly tip calculator application for Android devices that helps users quickly calculate tips and split bills among multiple people.
 
 ## Features
 
