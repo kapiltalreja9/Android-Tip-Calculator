@@ -6,7 +6,6 @@ A modern and user-friendly tip calculator application for Android devices that h
 
 - Calculate tip amount based on bill total
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -25,6 +24,11 @@ A modern and user-friendly tip calculator application for Android devices that h
 2. Open the project in Android Studio
 
 3. Build and run the application
+
+### How to Run
+
+1.  **Open the project:** Start Android Studio and select "Open an existing Android Studio project." Navigate to the project's root directory and click "OK."
+2.  **Run the app:** Click the "Run" button (the green triangle) in the toolbar or press `Shift` + `F10` (`Control` + `R` on Mac).
 
 ## Built With
 
